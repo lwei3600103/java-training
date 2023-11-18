@@ -1,0 +1,13 @@
+
+# 启动端口
+server:
+  port: 9003
+
+# es的节点地址和端口
+spring:
+  data:
+    elasticsearch:
+      cluster-nodes:
+      cluster-name:
+      repositories:
+        enable:

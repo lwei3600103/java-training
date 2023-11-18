@@ -1,0 +1,9 @@
+spring-training/.idea/
+spring-training/spring-training.iml
+spring-training/elasticsearch-example/gradlew
+spring-training/elasticsearch-example/gradlew.bat
+spring-training/elasticsearch-example/settings.gradle
+spring-training/elasticsearch-example/gradle/wrapper/gradle-wrapper.jar
+spring-training/elasticsearch-example/gradle/wrapper/gradle-wrapper.properties
+spring-training/elasticsearch-example/src/main/resources/application-dev.yml
+spring-training/elasticsearch-example/gradle/
